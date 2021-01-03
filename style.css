@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .highlight{
     color: orange;
 }
@@ -23,6 +26,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .anchor-button{
     background-image: linear-gradient(45deg, lightsalmon, tomato);
@@ -31,5 +35,9 @@ section{
     color: white;
     text-decoration: none;
     font-weight: 700;
-
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
