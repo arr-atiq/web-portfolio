@@ -94,6 +94,40 @@ section{
 #content-align{
     margin-top: 2%;
     padding-left: 8px;
-    line-height: 25px;
-    
+    line-height: 25px; 
 }
+.inquiry{
+
+}
+.inquiry-section{
+    background-image: url(images/Group_33094_1.png);
+    height: 40%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+.inquiry-content{
+    position: relative;
+    margin-top: 8%;
+    color: white;
+}
+.inquiry-content h3{
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 8%;
+}
+.inquiry-content a{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 7%;
+    background-color: rgb(238, 107, 6);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+id="text-onimage"
