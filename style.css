@@ -121,7 +121,7 @@ section{
     background-position:center;
     background-repeat: no-repeat;
     background-size: 50%;
-    
+    margin-top: 7%;
 }
 .inquiry-content{
     position: relative;
@@ -147,4 +147,11 @@ section{
     text-align: center;
     text-decoration: none;
 }
-id="text-onimage"
+.last-section{
+    text-align: center;
+    line-height: 15px;
+}
+.icon img{
+    margin: 1%;
+    width: 30px;
+}
