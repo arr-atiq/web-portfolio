@@ -65,6 +65,7 @@ section{
 }
 .project-section{
     background-color: rgb(245, 242, 242);
+    margin-bottom: 5%;
 }
 .main-div{
     margin-left: 14%;
@@ -96,30 +97,46 @@ section{
     padding-left: 8px;
     line-height: 25px; 
 }
+.gallery-section{
+    margin-top: 10%;
+    background-color: rgb(221, 211, 211);
+    padding-left: 80px;
+    padding-bottom: 30px;
+}
+.gallery-section img{
+    width: 23%;
+    display: inline-block;
+    padding-bottom: 4%;
+}
+.gallery-section h2{
+    text-align: center;
+    padding-top: 3%;
+}
 .inquiry{
-
+    height: 300px;
 }
 .inquiry-section{
     background-image: url(images/Group_33094_1.png);
-    height: 40%;
-    background-position: center;
+    height: 50%;
+    background-position:center;
     background-repeat: no-repeat;
     background-size: 50%;
+    
 }
 .inquiry-content{
     position: relative;
-    margin-top: 8%;
     color: white;
 }
 .inquiry-content h3{
     position: absolute;
     margin-left: 30%;
-    margin-top: 8%;
+    margin-top: 4%;
+    font-size: 40px;
 }
 .inquiry-content a{
     position: absolute;
     margin-left: 60%;
-    margin-top: 7%;
+    margin-top: 4%;
     background-color: rgb(238, 107, 6);
     color: white;
     font-size: 16px;
